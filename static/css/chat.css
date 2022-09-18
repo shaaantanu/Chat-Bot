@@ -71,6 +71,8 @@
     background-color: rgb(129, 132, 228);
     border-radius: 10px 10px 0px 0px;
     padding: 10px 0px 10px 10px;
+    position : sticky;
+    bottom: 0px;
 }
 
 .chat-bar-icons {
